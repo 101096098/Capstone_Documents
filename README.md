@@ -26,3 +26,8 @@ Capstone Documents
 # Sprint 06
 	* Project Status Report 02
 # Sprint 07
+
+# Srpint 08
+	* RAM matrix
+	* Project Status 3
+	* Meeting of Minutes
