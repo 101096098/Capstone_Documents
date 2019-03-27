@@ -1,7 +1,7 @@
 # Capstone_Documents
 Capstone Documents
 
-#Sprint 01
+# Sprint 01
 
 	* Project Summary
 	* Project Vision
