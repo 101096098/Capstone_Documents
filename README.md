@@ -7,3 +7,9 @@ Capstone Documents
 	* Project Vision
 	* High Level Requirements
 	* Personnas and Users Stories
+
+# Sprint 2
+
+	* Project Plan - Team Charter
+	* Product Backlog
+	* Minutes of Meeting
