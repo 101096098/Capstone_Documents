@@ -22,7 +22,7 @@ Capstone Documents
 # Sprint 06
 	* Project Status Report 02
 # Sprint 07
-
+	* Capstone Presentation
 # Sprint 08
 	* RAM matrix
 	* Project Status 3
