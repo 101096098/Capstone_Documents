@@ -18,9 +18,11 @@ Capstone Documents
 	* Requirements Analysis and Design
 
 # Sprint 04
-
+	* Requirements 
+	* Mockup client module
 # Sprint 05
-
+	* Project Plan _ Rev 01
+	* Project Status Report 01
 # Sprint 06
-
+	* Project Status Report 02
 # Sprint 07
