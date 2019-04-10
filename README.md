@@ -29,3 +29,5 @@ Capstone Documents
 	* Meeting of Minutes
 # Sprint 09
 	* Closure Report
+	* Final Presentation
+	* Project Instructions
