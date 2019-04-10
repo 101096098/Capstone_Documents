@@ -27,3 +27,5 @@ Capstone Documents
 	* RAM matrix
 	* Project Status 3
 	* Meeting of Minutes
+# Sprint 09
+	* Closure Report
